@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/FantasyResources/
+Assets/FantasyResources.meta
+
+Assets/MotionResources/
+Assets/MotionResources.meta
+
+Assets/Scripts/GameSystem/
+Assets/Scripts/GameSystem.meta
