@@ -10,43 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1d931936551a70843850eaadfc0ea97e, type: 3}
-  m_Name: AnimationSet10001
+  m_Name: AnimationSet20001
   m_EditorClassIdentifier: 
   AnimationSetList:
   - Label: 1
-    IsLoopMotion: 0
+    IsLoopMotion: 1
     ClipSetArray:
-    - AnimationClip: {fileID: 7400000, guid: 4318a786567a0f042b5a1dffb88b9ea1, type: 2}
-      IsLoopMotion: 1
-      IsApplyRootMotion: 0
-      IsMoveManual: 0
-      MoveManualSpeed: 0
-      IsLeftIK: 0
-      LeftIKIndex: 0
-      IsRightIK: 0
-      RightIKIndex: 0
-      IsSameAnime: 0
-      Speed: 1
-      LerpTime: 0.3
-  - Label: 2
-    IsLoopMotion: 0
-    ClipSetArray:
-    - AnimationClip: {fileID: 7400000, guid: 5d8ee6a4cdbcb0042a50ca001e7c45bf, type: 3}
-      IsLoopMotion: 1
-      IsApplyRootMotion: 0
-      IsMoveManual: 0
-      MoveManualSpeed: 0
-      IsLeftIK: 0
-      LeftIKIndex: 0
-      IsRightIK: 0
-      RightIKIndex: 0
-      IsSameAnime: 0
-      Speed: 1
-      LerpTime: 0.1
-  - Label: 8
-    IsLoopMotion: 0
-    ClipSetArray:
-    - AnimationClip: {fileID: 7400000, guid: 97ba22e74eebcb74983ba5c8ff9e4b0a, type: 2}
+    - AnimationClip: {fileID: 7400000, guid: fc26c58cfed908147885924e10497357, type: 2}
       IsLoopMotion: 0
       IsApplyRootMotion: 0
       IsMoveManual: 0
@@ -57,4 +27,19 @@ MonoBehaviour:
       RightIKIndex: 0
       IsSameAnime: 0
       Speed: 1
-      LerpTime: 0.1
+      LerpTime: 0
+  - Label: 2
+    IsLoopMotion: 1
+    ClipSetArray:
+    - AnimationClip: {fileID: 7400000, guid: 53e64c8f1d318b24bbaaace26843328c, type: 2}
+      IsLoopMotion: 0
+      IsApplyRootMotion: 0
+      IsMoveManual: 0
+      MoveManualSpeed: 0
+      IsLeftIK: 0
+      LeftIKIndex: 0
+      IsRightIK: 0
+      RightIKIndex: 0
+      IsSameAnime: 0
+      Speed: 1
+      LerpTime: 0
