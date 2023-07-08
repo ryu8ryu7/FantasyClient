@@ -4737,7 +4737,7 @@ Animator:
   m_GameObject: {fileID: 4326556853821111478}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 9d545e43681431348908eab98e78aa45, type: 3}
-  m_Controller: {fileID: 9100000, guid: d5ed51efd55d50448b90542c2b7239a5, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
@@ -4767,7 +4767,7 @@ MonoBehaviour:
   _isApplyRootMotion_rotation: 1
   _attachmentList: []
   _characterController: {fileID: 0}
-  _isAwakeInitialize: 1
+  _isAwakeInitialize: 0
   _animationSetIndex: -1
   _moveSpeed: 0.1
   _isControl: 0
